@@ -1,7 +1,6 @@
 <div align="center">
   
 # Hey, I'm Shai Sinai 👋  
-### QA Automation Engineer from Israel  
 
 <a href="https://www.linkedin.com/in/sshai/" target="blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shai Sinai"/>
