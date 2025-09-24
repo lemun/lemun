@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me  
 
 - 🔭 Currently working on **cross-platform mobile automation frameworks**  
-- 🌱 Learning **Node.js & Express**  
+- 🌱 Learning **Neovim & Arch**  
 - 💬 Ask me about **QA automation for web & mobile**  
 - 📫 Reach me at **shaisinai4@gmail.com**  
 - ⚡ Fun fact: Wrote my first automation script at **16 years old**  
